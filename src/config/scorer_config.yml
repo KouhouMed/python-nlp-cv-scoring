@@ -1,0 +1,91 @@
+# Global scoring parameters
+global:
+  skill_weight: 0.4
+  experience_weight: 0.3
+  certification_weight: 0.2
+  project_weight: 0.1
+  max_experience_years: 20
+  top_skills_count: 3
+
+# Skill scoring parameters
+skill_scoring:
+  experience_multiplier_cap: 2.0
+  certification_boost: 1.2
+  project_relevance_boost_cap: 0.2
+  max_skill_experience: 10
+
+# Model-specific configurations
+models:
+  bert:
+    model_name: 'camembert-base'
+    max_length: 512
+
+  word2vec:
+    model_name: 'fasttext-wiki-news-subwords-300'
+    min_count: 1
+    window: 5
+    vector_size: 300
+
+  chatgpt:
+    model_name: 'gpt-3.5-turbo'
+    temperature: 0.2
+    max_tokens: 500
+    top_p: 1.0
+    frequency_penalty: 0.0
+    presence_penalty: 0.0
+
+# Language-specific settings
+language:
+  primary: 'french'
+  fallback: 'english'
+
+# Skill extraction settings
+skill_extraction:
+  min_skill_length: 2
+  max_skill_length: 50
+  context_window: 100
+
+# Certification settings
+certifications:
+  boost_factor: 1.2
+  relevance_threshold: 0.6
+
+# Project evaluation settings
+projects:
+  min_relevance_score: 0.3
+  max_boost_per_project: 0.2
+
+# Performance optimization
+optimization:
+  cache_embeddings: true
+  batch_size: 32
+
+# Logging and debugging
+logging:
+  level: 'INFO'
+  file_path: 'logs/scorer.log'
+
+# API settings (if applicable)
+api:
+  rate_limit: 60  # requests per minute
+  timeout: 30  # seconds
+
+# Custom scoring adjustments
+custom_scoring:
+  industry_boost:
+    tech: 1.1
+    finance: 1.05
+    healthcare: 1.08
+  role_specific_weights:
+    developer:
+      coding_skills: 0.5
+      soft_skills: 0.3
+    manager:
+      leadership_skills: 0.4
+      technical_skills: 0.3
+
+# Experimental features (for future use)
+experimental:
+  use_transformer_xl: false
+  use_gpt4: false
+  semantic_role_labeling: false

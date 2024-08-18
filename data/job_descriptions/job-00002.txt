@@ -1,0 +1,43 @@
+Data Scientist Senior spécialisé(e) en IA
+
+Notre entreprise :
+DataAI Innovations, leader dans le développement de solutions d'intelligence artificielle pour l'optimisation des processus industriels, recherche un(e) Data Scientist Senior spécialisé(e) en IA pour rejoindre notre équipe en pleine croissance à Lyon.
+
+Description du poste :
+Nous recherchons un(e) data scientist expérimenté(e) pour diriger le développement de nos algorithmes d'apprentissage automatique et d'intelligence artificielle. Le/la candidat(e) idéal(e) aura une solide expertise en analyse de données complexes, en développement de modèles prédictifs avancés et une passion pour l'application de l'IA dans le secteur industriel.
+
+Responsabilités principales :
+- Concevoir et développer des modèles d'apprentissage automatique et d'IA pour l'optimisation des processus industriels
+- Analyser de grands ensembles de données pour identifier des tendances et des opportunités d'amélioration
+- Collaborer avec les équipes d'ingénierie et de produit pour intégrer les modèles d'IA dans nos solutions
+- Diriger des projets de recherche en IA et présenter les résultats à la direction et aux clients
+- Mentorer les data scientists juniors et promouvoir les meilleures pratiques en science des données
+- Assurer une veille technologique sur les dernières avancées en IA et en apprentissage automatique
+
+Compétences requises :
+- Doctorat en informatique, mathématiques appliquées ou domaine connexe
+- Minimum de 5 ans d'expérience en data science et en développement d'algorithmes d'IA
+- Maîtrise de Python et R, avec une expérience approfondie des bibliothèques de machine learning (scikit-learn, TensorFlow, PyTorch)
+- Expérience avancée en traitement du langage naturel (NLP) et en vision par ordinateur
+- Solides compétences en statistiques et en modélisation mathématique
+- Expérience avec les technologies Big Data (Hadoop, Spark)
+- Excellentes compétences en communication et en présentation
+- Capacité à diriger des équipes et à gérer des projets complexes
+
+Compétences appréciées :
+- Expérience dans le secteur industriel ou manufacturier
+- Connaissance des techniques d'optimisation et de recherche opérationnelle
+- Publications dans des conférences ou journaux reconnus en IA
+- Expérience avec les plateformes cloud (AWS, Azure, GCP)
+
+Nous offrons :
+- Un environnement de travail à la pointe de l'innovation en IA
+- Des projets stimulants avec un impact réel sur l'industrie
+- Des opportunités de publication et de participation à des conférences internationales
+- Un package salarial compétitif avec bonus basé sur les performances
+- Des avantages sociaux attractifs (mutuelle, plan d'épargne entreprise, congés supplémentaires)
+- Flexibilité de travail avec possibilité de télétravail partiel
+
+Si vous êtes passionné(e) par l'IA et souhaitez repousser les limites de son application dans l'industrie, rejoignez-nous pour façonner l'avenir de la production intelligente !
+
+Pour postuler, veuillez envoyer votre CV, une lettre de motivation et un résumé de vos projets de recherche les plus pertinents à carrieres@dataai-innovations.fr

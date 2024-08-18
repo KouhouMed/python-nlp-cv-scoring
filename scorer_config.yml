@@ -1,0 +1,17 @@
+global:
+  certification_weight: 0.1
+  experience_weight: 0.5
+  project_weight: 0.1
+  skill_weight: 0.3
+models:
+  bert:
+    model_name: camembert-base
+  chatgpt:
+    max_tokens: 500
+    temperature: 0.2
+  word2vec:
+    model_name: fasttext-wiki-news-subwords-300
+skill_scoring:
+  certification_boost: 1.3
+  experience_multiplier_cap: 2.5
+  project_relevance_boost_cap: 1.2

@@ -1,0 +1,45 @@
+Ingénieur(e) en Cybersécurité Senior
+
+Notre entreprise :
+SecureNet Défense, leader dans la fourniture de solutions de cybersécurité avancées pour les secteurs gouvernemental et privé, recherche un(e) Ingénieur(e) en Cybersécurité Senior pour rejoindre notre équipe d'élite à Toulouse.
+
+Description du poste :
+Nous recherchons un(e) expert(e) en cybersécurité pour renforcer notre équipe de défense contre les menaces avancées. Le/la candidat(e) idéal(e) aura une expertise approfondie en sécurité des réseaux, en analyse de malwares, et en réponse aux incidents, avec une capacité à anticiper et contrer les menaces émergentes.
+
+Responsabilités principales :
+- Concevoir et mettre en œuvre des architectures de sécurité robustes pour nos clients
+- Effectuer des tests d'intrusion avancés et des évaluations de vulnérabilité
+- Diriger les enquêtes sur les incidents de sécurité et coordonner les réponses aux crises
+- Développer des outils et des scripts pour automatiser la détection et la réponse aux menaces
+- Former les équipes internes et les clients sur les meilleures pratiques en cybersécurité
+- Participer à la veille sur les menaces et contribuer à l'élaboration de stratégies de défense proactives
+- Collaborer avec les équipes de développement pour intégrer la sécurité dès la conception (Security by Design)
+
+Compétences requises :
+- Minimum de 8 ans d'expérience en cybersécurité
+- Diplôme d'ingénieur en informatique ou en sécurité des systèmes d'information
+- Expertise avancée en sécurité des réseaux, cryptographie, et protocoles de sécurité
+- Maîtrise des outils de sécurité (Nmap, Metasploit, Wireshark, SIEM)
+- Solides compétences en programmation (Python, C++, Shell scripting)
+- Expérience en analyse de malwares et en forensique numérique
+- Connaissance approfondie des normes de sécurité (ISO 27001, NIST, OWASP)
+- Excellentes capacités d'analyse et de résolution de problèmes complexes
+
+Compétences appréciées :
+- Certifications en sécurité (CISSP, CEH, OSCP, GIAC)
+- Expérience dans la sécurité des environnements cloud (AWS, Azure, GCP)
+- Connaissance des techniques de threat hunting et de cyber threat intelligence
+- Publications ou présentations dans des conférences de sécurité reconnues
+
+Nous offrons :
+- Un rôle de premier plan dans la lutte contre les cybermenaces avancées
+- L'accès à des technologies de pointe en matière de cybersécurité
+- Des projets stimulants pour des clients de haut niveau
+- Un salaire très compétitif avec des bonus liés aux performances
+- Des avantages sociaux premium (mutuelle familiale, plan d'épargne entreprise, congés supplémentaires)
+- Des opportunités de formation continue et de participation à des conférences internationales
+- Un environnement de travail sécurisé et à la pointe de la technologie
+
+Si vous êtes passionné(e) par la cybersécurité et souhaitez contribuer à la protection des infrastructures critiques contre les menaces émergentes, rejoignez notre équipe d'élite !
+
+Pour postuler, veuillez envoyer votre CV, une lettre de motivation, et un résumé de vos réalisations les plus significatives en matière de cybersécurité à recrutement@securenet-defense.fr

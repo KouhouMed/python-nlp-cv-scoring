@@ -1,0 +1,45 @@
+Architecte Cloud DevOps
+
+Notre entreprise :
+CloudTech Solutions, entreprise leader dans la fourniture de services cloud et de solutions DevOps, recherche un(e) Architecte Cloud DevOps pour rejoindre notre équipe d'experts à Nantes.
+
+Description du poste :
+Nous recherchons un(e) architecte cloud expérimenté(e) pour concevoir, mettre en œuvre et optimiser des infrastructures cloud robustes et évolutives pour nos clients. Le/la candidat(e) idéal(e) aura une expertise approfondie dans les technologies cloud, les pratiques DevOps et une capacité à diriger des projets de transformation numérique complexes.
+
+Responsabilités principales :
+- Concevoir et mettre en œuvre des architectures cloud hautement disponibles et sécurisées
+- Développer et maintenir des pipelines CI/CD pour l'automatisation du déploiement et des tests
+- Optimiser les processus DevOps pour améliorer l'efficacité et la qualité des déploiements
+- Collaborer avec les équipes de développement pour assurer l'adoption des meilleures pratiques DevOps
+- Gérer la migration des applications et des infrastructures vers le cloud
+- Assurer la sécurité, la conformité et l'optimisation des coûts des environnements cloud
+- Former et encadrer les membres de l'équipe sur les technologies cloud et les pratiques DevOps
+
+Compétences requises :
+- Minimum de 7 ans d'expérience en administration système et cloud computing
+- Expertise avancée dans au moins une des principales plateformes cloud (AWS, Azure, GCP)
+- Maîtrise des outils et pratiques DevOps (Docker, Kubernetes, Jenkins, GitLab CI, Ansible, Terraform)
+- Solide expérience en scripting et automatisation (Python, Bash, PowerShell)
+- Connaissance approfondie des architectures microservices et des conteneurs
+- Expérience dans la mise en place de solutions de monitoring et de logging (ELK, Prometheus, Grafana)
+- Compréhension des principes de sécurité informatique et de conformité (ISO 27001, GDPR)
+- Excellentes compétences en communication et en gestion de projet
+
+Compétences appréciées :
+- Certifications cloud (AWS Certified Solutions Architect, Azure Solutions Architect, GCP Professional Cloud Architect)
+- Expérience avec les frameworks serverless et l'infrastructure as code
+- Connaissance des méthodologies Agile et Scrum
+- Expérience dans la gestion de projets de transformation digitale à grande échelle
+
+Nous offrons :
+- Un rôle clé dans des projets de transformation cloud innovants
+- Des opportunités de travailler avec les dernières technologies cloud et DevOps
+- Un environnement de travail collaboratif et axé sur l'apprentissage continu
+- Un package salarial attractif avec des bonus liés aux performances
+- Des avantages sociaux compétitifs (assurance santé, plan d'épargne, congés payés généreux)
+- Des opportunités de développement professionnel et de certification
+- Flexibilité de travail avec option de télétravail
+
+Si vous êtes passionné(e) par le cloud computing et le DevOps, et que vous souhaitez jouer un rôle central dans la transformation numérique de grandes entreprises, nous voulons vous rencontrer !
+
+Pour postuler, veuillez envoyer votre CV, une lettre de motivation et un portfolio de vos projets cloud les plus significatifs à recrutement@cloudtech-solutions.fr
