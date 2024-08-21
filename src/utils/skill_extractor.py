@@ -22,7 +22,13 @@ SKILLS = [
     "Lean Six Sigma", "Gestion de la qualité", "ISO 9001",
     "ITIL", "PRINCE2", "PMP", "Certification Scrum", "Terraform", "Ansible", "Puppet", "Chef", "PowerShell", "Bash/Shell Scripting",
     "Elasticsearch", "Kafka", "RabbitMQ", "Redis", "GraphQL", "Webpack", "Babel",
-    "JIRA", "Confluence", "Kotlin", "Swift", "Objective-C", "Cordova",
+    "JIRA", "Confluence", "Kotlin", "Swift", "Objective-C", "Cordova", "Zabbix", "Nagios", "Prometheus", "Grafana", "New Relic", "Splunk",
+    "Selenium", "Cypress", "TestNG", "JUnit", "Mocha", "Chai",
+    "Jupyter", "PyTorch", "TensorFlow", "Keras", "Scikit-learn", "Pandas",
+    "NumPy", "Matplotlib", "Seaborn", "D3.js", "Three.js", "Bootstrap",
+    "Tailwind CSS", "Material-UI", "Jest", "Cucumber", "Mockito",
+    "ServiceNow", "SAP", "Oracle E-Business Suite", "Salesforce",
+    "Vagrant", "VirtualBox", "VMware", "Citrix", "OpenShift", "Rancher"
 ]
 
 CERTIFICATIONS = [
