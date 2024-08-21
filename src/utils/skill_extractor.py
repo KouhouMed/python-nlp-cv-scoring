@@ -20,7 +20,9 @@ SKILLS = [
     "Cybersécurité", "Cryptographie", "Ethical Hacking", "Forensics",
     "IoT", "Blockchain", "Réalité virtuelle", "Réalité augmentée",
     "Lean Six Sigma", "Gestion de la qualité", "ISO 9001",
-    "ITIL", "PRINCE2", "PMP", "Certification Scrum"
+    "ITIL", "PRINCE2", "PMP", "Certification Scrum", "Terraform", "Ansible", "Puppet", "Chef", "PowerShell", "Bash/Shell Scripting",
+    "Elasticsearch", "Kafka", "RabbitMQ", "Redis", "GraphQL", "Webpack", "Babel",
+    "JIRA", "Confluence", "Kotlin", "Swift", "Objective-C", "Cordova",
 ]
 
 CERTIFICATIONS = [
