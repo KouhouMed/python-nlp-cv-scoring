@@ -45,7 +45,20 @@ CERTIFICATIONS = [
     "VMware Certified Professional (VCP)", "Certified Kubernetes Administrator (CKA)",
     "Certified Scrum Product Owner (CSPO)", "PMI Agile Certified Practitioner (PMI-ACP)",
     "Certified Ethical Hacker (CEH)", "GIAC Security Essentials (GSEC)",
-    "Certified Data Professional (CDP)", "Tableau Desktop Certified Professional"
+    "Certified Data Professional (CDP)", "Tableau Desktop Certified Professional",
+    "Certified DevOps Engineer - Professional", "AWS Certified Developer - Associate", "AWS Certified SysOps Administrator - Associate",
+    "Microsoft Certified: Azure Administrator Associate", "Microsoft Certified: Azure Developer Associate",
+    "Microsoft Certified: DevOps Engineer Expert", "Google Certified Professional Data Engineer",
+    "Google Certified Professional DevOps Engineer", "Certified Blockchain Professional (CBP)",
+    "Certified Penetration Tester (CPT)", "GIAC Certified Incident Handler (GCIH)",
+    "GIAC Certified Forensic Analyst (GCFA)", "Certified in Governance, Risk & Compliance (CGRC)",
+    "Amazon Web Services Certified DevOps Engineer", "AWS Certified Machine Learning - Specialty",
+    "Google Certified Professional Cloud Security Engineer", "Cisco Certified CyberOps Associate",
+    "Certified Artificial Intelligence Practitioner (CAIP)", "Certified Data Scientist (CDS)",
+    "Professional Scrum Master (PSM)", "Professional Scrum Product Owner (PSPO)",
+    "Lean Six Sigma Green Belt Certification", "Lean Six Sigma Black Belt Certification",
+    "TOGAF Certified", "ITIL Master Certification"
+
 ]
 
 
