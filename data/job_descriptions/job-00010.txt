@@ -1,0 +1,54 @@
+Description du poste
+
+À propos de nous
+Chez SoftWorks Solutions, nous sommes spécialisés dans le développement de logiciels haute performance pour les secteurs de l'industrie, de l'aérospatiale et de la finance. Notre expertise en C++ nous permet de créer des solutions robustes et efficaces qui répondent aux exigences les plus strictes de nos clients. Nous croyons en l'innovation continue et en l'importance de former la prochaine génération de développeurs talentueux.
+
+À propos de la mission :
+Nous recherchons un(e) apprenti(e) développeur(se) C++ motivé(e) et passionné(e) pour rejoindre notre équipe dans le cadre d'un contrat d'alternance. Cette opportunité vous permettra de combiner vos études avec une expérience pratique au sein d'une équipe de développement expérimentée. Vous participerez à des projets réels, depuis la conception jusqu'à la mise en production, tout en bénéficiant d'un encadrement personnalisé pour développer vos compétences en programmation C++.
+
+Responsabilités :
+• Participer au développement de composants logiciels en C++ sous la supervision de développeurs seniors.
+• Assister à la conception et à l'implémentation de nouvelles fonctionnalités pour nos produits existants.
+• Contribuer à l'optimisation des performances et à l'amélioration de la qualité du code.
+• Participer aux revues de code et aux sessions de pair programming pour améliorer vos compétences.
+• Aider à la rédaction de la documentation technique et des tests unitaires.
+• Collaborer avec les équipes de QA pour identifier et résoudre les bugs.
+• Participer aux réunions d'équipe et aux cérémonies Agile (daily stand-ups, sprint planning, etc.).
+• Travailler sur des projets personnels pour approfondir votre compréhension de C++ et des bonnes pratiques de programmation.
+
+Qualifications requises :
+• Être inscrit(e) dans un programme de formation en informatique (DUT, Licence Pro, École d'ingénieurs) compatible avec l'alternance.
+• Connaissance de base du langage C++ et des concepts de programmation orientée objet.
+• Familiarité avec les environnements de développement sous Linux ou Windows.
+• Compréhension des structures de données fondamentales et des algorithmes de base.
+• Capacité à travailler en équipe et à communiquer efficacement.
+• Curiosité intellectuelle et volonté d'apprendre continuellement.
+• Bon niveau d'anglais technique (lecture de documentation, code en anglais).
+
+Qualifications appréciées (non obligatoires) :
+• Expérience personnelle ou académique avec des projets C++.
+• Connaissance de base des outils de versioning (ex: Git).
+• Familiarité avec les principes de clean code et les design patterns.
+• Intérêt pour les problématiques de performance et d'optimisation.
+
+Autres informations :
+Type de contrat : Contrat d'apprentissage d'1 à 3 ans (selon le cursus)
+Lieu de travail : Toulouse, avec possibilité de télétravail partiel
+
+Si vous êtes passionné(e) par le développement C++ et que vous souhaitez développer vos compétences dans un environnement professionnel stimulant, nous voulons vous rencontrer !
+
+Type d'emploi : Alternance, Temps partagé entre l'entreprise et l'école
+Rémunération : Selon la grille de rémunération des contrats d'apprentissage + avantages (tickets restaurant, remboursement 50% des frais de transport)
+
+Formation :
+• En cours de DUT, Licence Pro, ou Cycle d'ingénieur en Informatique
+
+Expérience :
+• Projets académiques ou personnels en C++ (Requis)
+• Stage ou expérience en développement logiciel (Optionnel)
+
+Langue :
+• Français : Courant (Requis)
+• Anglais : Niveau intermédiaire, capacité à lire de la documentation technique (Requis)
+
+Lieu du poste : Hybride (31000 Toulouse)

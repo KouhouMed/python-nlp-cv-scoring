@@ -1,0 +1,60 @@
+Alexandre Leroy
+Adresse : 22 Rue des Technologies, 75008 Paris
+Téléphone : +33 6 78 90 12 34
+Email : alexandre.leroy@example.com
+LinkedIn : linkedin.com/in/alexandreleroy
+GitHub : github.com/alexandreleroy
+
+Objectif Professionnel
+Spécialiste en virtualisation avec plus de 5 ans d'expérience dans la conception, l'implémentation, et la gestion d'infrastructures virtualisées. Passionné par l'optimisation des ressources informatiques et l'automatisation des processus, je cherche à rejoindre une entreprise innovante pour continuer à développer des solutions robustes et efficaces.
+
+Formation
+2014 - 2017 :
+Licence Professionnelle Réseaux et Télécommunications, option Virtualisation et Cloud
+Université Paris-Saclay, Paris
+
+Cours principaux : Virtualisation des serveurs, Réseaux avancés, Cloud Computing, Sécurité des infrastructures, Systèmes distribués
+2012 - 2014 :
+DUT Réseaux et Télécommunications
+IUT de Paris, Paris
+
+Spécialisation en administration des réseaux et systèmes
+Expérience Professionnelle
+
+Mars 2019 - Présent :
+Spécialiste en Virtualisation - TechSolutions, Paris
+
+Administration et maintenance des environnements virtualisés basés sur VMware vSphere et Microsoft Hyper-V
+Déploiement et gestion de clusters de serveurs pour améliorer la tolérance aux pannes et la haute disponibilité
+Conception et mise en œuvre de solutions de virtualisation des postes de travail (VDI) avec VMware Horizon
+Optimisation des ressources physiques par la mise en place de politiques de répartition de charge (load balancing) et de réduction des coûts énergétiques
+Implémentation de stratégies de sauvegarde et de récupération des machines virtuelles pour assurer la continuité des activités
+Participation aux projets de migration vers des environnements cloud hybrides, intégration avec AWS et Azure
+Collaboration avec les équipes de sécurité pour renforcer la protection des environnements virtualisés
+Juillet 2017 - Février 2019 :
+Administrateur Systèmes et Virtualisation - InfoNet Services, Lyon
+
+Gestion de l'infrastructure virtualisée de l'entreprise avec VMware et Proxmox
+Mise en place et suivi des environnements de test pour les nouvelles solutions IT
+Administration des serveurs Windows et Linux, gestion des politiques de virtualisation
+Automatisation des tâches récurrentes à l'aide de scripts PowerShell et Bash
+Support technique avancé pour la résolution des problèmes liés aux environnements virtualisés
+Compétences Techniques
+
+Virtualisation : VMware vSphere, Microsoft Hyper-V, Proxmox, KVM
+Cloud : AWS, Microsoft Azure, VMware Cloud on AWS
+Outils de gestion : VMware Horizon, vCenter, vRealize Operations, SCVMM
+Systèmes d’exploitation : Windows Server, Linux (Ubuntu, CentOS, Red Hat)
+Réseaux : VLAN, VPN, SDN, Load Balancing, Firewalling
+Scripting et automatisation : PowerShell, Bash, Ansible
+Sauvegarde et récupération : Veeam Backup & Replication, Snapshots, DRaaS
+Sécurité : Hardening des systèmes virtualisés, gestion des accès, monitoring
+Certifications
+
+VMware Certified Professional – Data Center Virtualization (VCP-DCV)
+Microsoft Certified: Azure Administrator Associate
+Certified Kubernetes Administrator (CKA)
+Langues
+
+Français : Langue maternelle
+Anglais : Niveau professionnel (écrit et oral)

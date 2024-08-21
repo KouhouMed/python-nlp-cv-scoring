@@ -1,0 +1,62 @@
+```
+Léa Dupont
+23 Rue des Écoles, 75005 Paris
+Téléphone : 07 12 34 56 78
+Email : lea.dupont@email.com
+
+PROFIL
+Étudiante passionnée en dernière année de licence en mathématiques appliquées, avec un vif intérêt pour l'analyse de données. Je cherche à mettre en pratique mes compétences analytiques et ma curiosité naturelle dans un stage en analyse de données pour contribuer à des projets concrets tout en développant mes compétences techniques.
+
+FORMATION
+
+Licence en Mathématiques Appliquées | Université Paris-Saclay
+Septembre 2021 - Juin 2024 (en cours)
+• Spécialisation en Statistiques et Science des Données
+• Modules pertinents : Probabilités, Statistiques Inférentielles, Introduction au Machine Learning, Bases de Données
+
+Baccalauréat Scientifique | Lycée Louis-le-Grand, Paris
+Septembre 2018 - Juin 2021
+• Mention Très Bien
+
+COMPÉTENCES TECHNIQUES
+
+• Langages de programmation : Python (niveau intermédiaire), R (notions de base)
+• Analyse de données : Pandas, NumPy, Matplotlib
+• Bases de données : SQL (niveau débutant)
+• Outils : Excel, Google Sheets
+• Notions de base en statistiques et en visualisation de données
+
+PROJETS ACADÉMIQUES
+
+Analyse des Tendances de Consommation | Projet de cours
+Février - Mai 2023
+• Analyse d'un jeu de données de ventes au détail avec Python et Pandas
+• Création de visualisations pour identifier les tendances saisonnières
+• Présentation des résultats à la classe
+
+Prédiction des Prix Immobiliers | Projet personnel
+Juin - Août 2023
+• Développement d'un modèle de régression simple pour prédire les prix immobiliers
+• Utilisation de Python, Scikit-learn et Matplotlib
+• Publication du projet sur GitHub
+
+EXPÉRIENCE PROFESSIONNELLE
+
+Assistante de Recherche (temps partiel) | Département de Mathématiques, Université Paris-Saclay
+Septembre 2023 - Présent
+• Aide à la collecte et au nettoyage de données pour un projet de recherche en écologie
+• Réalisation d'analyses statistiques de base avec R
+• Contribution à la rédaction de rapports de recherche
+
+LANGUES
+
+• Français : Langue maternelle
+• Anglais : Niveau B2 (TOEIC 785)
+
+CENTRES D'INTÉRÊT
+
+• Membre actif du club de Data Science de l'université
+• Participation à des hackathons étudiants (2ème place au Hack'Saclay 2023)
+• Suivi de cours en ligne sur Coursera (Data Science Specialization de Johns Hopkins University, en cours)
+• Passionnée de photographie numérique et d'analyse d'image
+```

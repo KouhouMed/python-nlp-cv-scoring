@@ -1,0 +1,48 @@
+# Description du poste
+
+## À propos de nous
+Chez CloudFlow Technologies, nous sommes passionnés par l'optimisation des processus de développement et de déploiement logiciel. Notre entreprise fournit des solutions DevOps de pointe à des clients du monde entier, leur permettant d'accélérer leur cycle de développement et d'améliorer la qualité de leurs produits. Nous recherchons un ingénieur DevOps talentueux pour rejoindre notre équipe et contribuer à façonner l'avenir de la livraison continue.
+
+## À propos de la mission
+En tant qu'Ingénieur DevOps chez CloudFlow Technologies, vous serez au cœur de nos efforts pour concevoir, mettre en œuvre et maintenir des pipelines CI/CD robustes et évolutifs. Vous travaillerez en étroite collaboration avec les équipes de développement et d'opérations pour automatiser les processus, optimiser les performances et assurer la fiabilité de nos infrastructures cloud.
+
+## Responsabilités
+• Concevoir et mettre en œuvre des pipelines CI/CD automatisés.
+• Gérer et optimiser les infrastructures cloud (AWS, Azure, GCP).
+• Implémenter des pratiques d'Infrastructure as Code (IaC) en utilisant des outils tels que Terraform ou CloudFormation.
+• Configurer et maintenir des systèmes de monitoring et de logging.
+• Collaborer avec les équipes de développement pour améliorer les pratiques DevOps.
+• Participer à la résolution des incidents et à l'amélioration continue des systèmes.
+• Assurer la sécurité et la conformité des infrastructures et des processus.
+
+## Qualifications requises
+• Diplôme d'ingénieur en informatique ou équivalent.
+• 4+ ans d'expérience en tant qu'ingénieur DevOps ou dans un rôle similaire.
+• Solide expérience avec les principaux fournisseurs de cloud (AWS, Azure ou GCP).
+• Maîtrise des outils CI/CD (Jenkins, GitLab CI, CircleCI).
+• Expérience approfondie en scripting (Python, Bash, PowerShell).
+• Connaissance des conteneurs et de l'orchestration (Docker, Kubernetes).
+• Familiarité avec les pratiques Agile et Scrum.
+• Certifications cloud et DevOps appréciées (AWS Certified DevOps Engineer, Azure DevOps Engineer, etc.).
+
+## Autres informations
+Type de contrat : CDI
+Lieu de travail : Lille avec possibilité de télétravail partiel
+
+Type d'emploi : Temps plein
+Statut : Cadre
+Rémunération : 50 000,00€ à 75 000,00€ par an
+
+Formation :
+• Bac +5 (Master / Diplôme d'ingénieur) (Requis)
+
+Expérience :
+• DevOps: 4 ans (Requis)
+• Cloud (AWS/Azure/GCP): 3 ans (Requis)
+• Conteneurisation: 2 ans (Optionnel)
+
+Langue :
+• Anglais (Requis)
+• Français (Requis)
+
+Lieu du poste : Télétravail hybride (59000 Lille)

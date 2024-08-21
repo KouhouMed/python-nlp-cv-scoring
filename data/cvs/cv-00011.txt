@@ -1,0 +1,65 @@
+Thomas Dubois
+15 Rue de la Paix, 59000 Lille
+Téléphone : 06 12 34 56 78
+Email : thomas.dubois@email.com
+
+PROFIL
+Ingénieur DevOps passionné avec plus de 5 ans d'expérience dans l'optimisation des processus de développement et de déploiement logiciel. Expert en automatisation CI/CD, gestion d'infrastructures cloud et pratiques d'Infrastructure as Code. Cherche à apporter mon expertise pour façonner l'avenir de la livraison continue chez CloudFlow Technologies.
+
+EXPÉRIENCE PROFESSIONNELLE
+
+Senior DevOps Engineer | TechInno SA, Paris
+Janvier 2020 - Présent
+- Conception et implémentation de pipelines CI/CD robustes avec Jenkins et GitLab CI, réduisant le temps de déploiement de 60%
+- Gestion et optimisation d'infrastructures multi-cloud (AWS et Azure) pour plus de 50 projets clients
+- Mise en place de pratiques d'Infrastructure as Code avec Terraform, améliorant la reproductibilité et la fiabilité des déploiements de 40%
+- Configuration et maintenance de systèmes de monitoring (Prometheus, Grafana) et logging (ELK stack)
+- Leadership technique pour une équipe de 4 ingénieurs DevOps junior
+
+DevOps Engineer | CloudSys SARL, Lyon
+Mars 2017 - Décembre 2019
+- Implémentation de solutions de conteneurisation avec Docker et orchestration avec Kubernetes pour 15 applications critiques
+- Automatisation du provisionnement d'infrastructure sur GCP en utilisant Terraform et Ansible
+- Collaboration étroite avec les équipes de développement pour améliorer les pratiques DevOps et réduire le temps de mise sur le marché de 50%
+- Mise en place de stratégies de sécurité et de conformité pour les infrastructures cloud
+
+Administrateur Système Junior | DataHost SAS, Lille
+Septembre 2015 - Février 2017
+- Gestion des systèmes Linux et Windows dans un environnement de data center hybride
+- Participation à la migration de services on-premise vers AWS, réduisant les coûts d'infrastructure de 30%
+- Scripting d'automatisation de tâches systèmes en Python et Bash
+
+FORMATION
+
+Diplôme d'Ingénieur en Informatique | École Centrale de Lille
+2012 - 2015
+Spécialisation en Systèmes Distribués et Cloud Computing
+
+CERTIFICATIONS
+- AWS Certified DevOps Engineer - Professional (2022)
+- Microsoft Certified: Azure DevOps Engineer Expert (2021)
+- Certified Kubernetes Administrator (CKA) (2020)
+- HashiCorp Certified: Terraform Associate (2019)
+
+COMPÉTENCES TECHNIQUES
+
+Cloud Platforms : AWS (4 ans), Azure (3 ans), GCP (2 ans)
+CI/CD : Jenkins, GitLab CI, CircleCI
+Conteneurisation : Docker, Kubernetes
+Infrastructure as Code : Terraform, CloudFormation, Ansible
+Scripting : Python, Bash, PowerShell
+Monitoring & Logging : Prometheus, Grafana, ELK Stack
+Version Control : Git, GitHub, GitLab
+Méthodologies : Agile, Scrum
+
+LANGUES
+
+Français : Langue maternelle
+Anglais : Courant (TOEIC 950)
+
+CENTRES D'INTÉRÊT
+
+- Conférencier occasionnel dans des meetups DevOps locaux
+- Contributeur à des projets open-source liés à l'automatisation CI/CD
+- Passionné de nouvelles technologies cloud et d'IA
+- Pratique du trail et de l'escalade

@@ -1,0 +1,49 @@
+Jean Dupont
+Adresse : 15 Rue des Lilas, 31000 Toulouse
+Téléphone : +33 6 12 34 56 78
+Email : jean.dupont@example.com
+LinkedIn : linkedin.com/in/jeandupont
+GitHub : github.com/jeandupont
+
+Objectif Professionnel
+Étudiant en informatique passionné par le développement logiciel, particulièrement en C++. Je souhaite intégrer une entreprise innovante pour un contrat d'apprentissage afin de développer mes compétences techniques et contribuer à des projets ambitieux. Fort d'une solide formation académique et de plusieurs projets personnels, je suis motivé pour participer activement au développement de solutions logicielles performantes chez SoftWorks Solutions.
+
+Formation
+2022 - Présent :
+DUT Informatique - IUT Paul Sabatier, Toulouse
+
+Cours principaux : Programmation C++, Algorithmique, Structures de données, Développement sous Linux/Windows, Bases de données
+Projet de fin d'année : Développement d'un simulateur de gestion de stock en C++ (note : 18/20)
+2020 - 2022 :
+Baccalauréat Scientifique - Lycée Pierre de Fermat, Toulouse
+
+Mention Bien
+Spécialité Mathématiques et Informatique
+Expérience Professionnelle
+Juin 2023 - Août 2023 :
+Stagiaire Développeur C++ - Tech Innov, Toulouse
+
+Participation à la conception et au développement d'une application interne en C++
+Optimisation des performances d'algorithmes existants pour réduire le temps de traitement de 15%
+Collaboration avec l'équipe QA pour identifier et corriger plusieurs bugs critiques
+Rédaction de la documentation technique pour les modules développés
+Projets Académiques :
+
+Simulation de gestion de stock (2023) : Création d'un simulateur en C++ permettant de gérer les stocks d'une entreprise avec des fonctionnalités de suivi et de prévision.
+Jeu de casse-briques (2022) : Développement d'un jeu de casse-briques en C++ avec SDL2, implémentation des règles du jeu, gestion des niveaux et des scores.
+Compétences Techniques
+Langages de programmation : C++ (avancé), Python (intermédiaire), Java (débutant)
+Environnements de développement : Linux (Ubuntu), Windows, Visual Studio, CLion
+Outils de versioning : Git, GitHub
+Concepts de programmation : Programmation orientée objet, Structures de données, Algorithmes, POO
+Autres : Méthodologies Agile, Clean Code, Design Patterns
+Langues
+Français : Langue maternelle
+Anglais : Niveau intermédiaire (lecture de documentation technique, écriture de code)
+Centres d'Intérêt
+Développement de logiciels : Passionné par la création de logiciels performants et optimisés
+Contributions open-source : Participation à des projets open-source sur GitHub, principalement en C++
+Jeux vidéo : Intérêt pour le développement de jeux en C++ et la conception d'algorithmes de jeu
+Informations Complémentaires
+Disponibilité : Disponible pour débuter le contrat d'alternance en septembre 2024
+Permis de conduire : B (véhicule personnel)

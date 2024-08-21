@@ -1,0 +1,54 @@
+Description du poste
+
+À propos de nous
+Chez DataVision Analytics, nous sommes passionnés par la transformation des données en insights actionnables. Notre entreprise se spécialise dans la fourniture de solutions d'analyse de données avancées pour une variété de secteurs, de la finance à la santé en passant par le e-commerce. Nous croyons au pouvoir des données pour guider la prise de décision et stimuler l'innovation. Notre équipe dynamique est constamment à la recherche de nouvelles façons d'extraire de la valeur des données de nos clients.
+
+À propos de la mission :
+Nous recherchons un stagiaire en analyse de données motivé et curieux pour rejoindre notre équipe pour une durée de 6 mois. Ce stage vous offrira une opportunité unique de plonger dans le monde passionnant de l'analyse de données en travaillant sur des projets réels et variés. Vous serez encadré par des analystes expérimentés qui vous guideront dans l'application de techniques d'analyse avancées et vous aideront à développer vos compétences en data science.
+
+Responsabilités :
+• Assister à la collecte, au nettoyage et à la préparation des données provenant de diverses sources.
+• Participer à l'analyse exploratoire des données pour identifier des tendances et des modèles.
+• Aider à la création de visualisations de données et de tableaux de bord interactifs.
+• Contribuer à la rédaction de rapports d'analyse et à la présentation des résultats aux équipes internes.
+• Collaborer avec les équipes de data engineering et de data science sur des projets d'analyse prédictive.
+• Participer à des sessions de brainstorming pour proposer de nouvelles approches analytiques.
+• Assister à la documentation des processus d'analyse et des méthodologies utilisées.
+
+Qualifications requises :
+• Étudiant en dernière année de licence ou en master en statistiques, mathématiques, informatique ou domaine connexe.
+• Solides compétences en mathématiques et en statistiques.
+• Connaissance de base en programmation, de préférence en Python ou R.
+• Familiarité avec les concepts de base de l'analyse de données et de la visualisation.
+• Compétences de base en SQL et dans l'utilisation de bases de données.
+• Capacité à travailler avec des ensembles de données volumineux et complexes.
+• Excellentes compétences analytiques et de résolution de problèmes.
+• Forte curiosité intellectuelle et volonté d'apprendre continuellement.
+• Bonnes compétences en communication orale et écrite.
+
+Qualifications appréciées (non obligatoires) :
+• Expérience avec des outils de visualisation de données comme Tableau ou PowerBI.
+• Connaissance de base des concepts de machine learning.
+• Familiarité avec les méthodologies agiles.
+
+Autres informations :
+Type de contrat : Stage de 6 mois
+Lieu de travail : Paris, avec possibilité de travail à distance partiel
+
+Si vous êtes passionné par les données et que vous souhaitez débuter votre carrière dans l'analyse de données au sein d'une équipe dynamique et innovante, nous voulons vous rencontrer !
+
+Type d'emploi : Stage, Temps plein
+Rémunération : Selon le barème légal des stages + avantages (tickets restaurant, remboursement 50% du pass Navigo)
+
+Formation :
+• Bac +3 (Licence) minimum en cours, Bac +5 (Master) apprécié
+
+Expérience :
+• Projets académiques ou personnels en analyse de données (Requis)
+• Stage ou expérience professionnelle en analyse de données (Optionnel)
+
+Langue :
+• Français : Courant (Requis)
+• Anglais : Niveau intermédiaire (Requis)
+
+Lieu du poste : Hybride (75001 Paris)

@@ -1,0 +1,44 @@
+# Description du poste
+
+## À propos de nous
+Chez DataVision, nous sommes pionniers dans l'exploitation des données pour façonner l'avenir. Notre équipe de data scientists travaille sur des projets variés, de la prédiction des tendances de consommation à l'optimisation des chaînes d'approvisionnement mondiales. Nous recherchons des esprits créatifs et analytiques pour nous aider à repousser les limites de ce qui est possible avec les données.
+
+## À propos de la mission
+En tant que Data Scientist chez DataVision, vous serez au cœur de nos initiatives d'analyse prédictive et d'apprentissage automatique. Vous travaillerez sur des ensembles de données complexes, développerez des modèles sophistiqués et traduirez les résultats en insights actionnables pour nos clients.
+
+## Responsabilités
+• Concevoir et mettre en œuvre des modèles d'apprentissage automatique et d'intelligence artificielle.
+• Analyser de grands ensembles de données pour en extraire des insights pertinents.
+• Collaborer avec les équipes produit et engineering pour intégrer les modèles dans nos solutions.
+• Présenter les résultats et recommandations aux parties prenantes internes et externes.
+• Rester à jour sur les dernières avancées en science des données et en IA.
+
+## Qualifications requises
+• Master ou Doctorat en sciences des données, mathématiques, statistiques ou domaine connexe.
+• 3+ ans d'expérience en data science ou rôle similaire.
+• Maîtrise de Python et R, avec une expérience en TensorFlow ou PyTorch.
+• Solides compétences en SQL et en gestion de bases de données.
+• Expérience avec les outils de big data comme Hadoop et Spark.
+• Excellentes capacités de communication et de présentation.
+
+## Autres informations
+Type de contrat : CDI
+Lieu de travail : Paris avec possibilité de télétravail partiel
+
+Type d'emploi : Temps plein
+Statut : Cadre
+Rémunération : 55 000,00€ à 85 000,00€ par an
+
+Formation :
+• Bac +5 (Master) ou Doctorat (Requis)
+
+Expérience :
+• Data Science: 3 ans (Requis)
+• Machine Learning: 2 ans (Requis)
+• Big Data: 2 ans (Optionnel)
+
+Langue :
+• Anglais (Requis)
+• Français (Requis)
+
+Lieu du poste : Télétravail hybride (75001 Paris)

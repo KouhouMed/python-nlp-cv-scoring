@@ -1,0 +1,48 @@
+# Description du poste
+
+## À propos de nous
+Chez AInnov Solutions, nous sommes à la pointe de l'innovation en intelligence artificielle. Notre entreprise développe des solutions d'IA avancées pour divers secteurs, de la santé à la finance en passant par l'industrie manufacturière. Nous recherchons un ingénieur en machine learning passionné pour rejoindre notre équipe dynamique et contribuer à repousser les frontières de l'IA appliquée.
+
+## À propos de la mission
+En tant qu'Ingénieur Machine Learning chez AInnov Solutions, vous serez responsable de la conception, du développement et du déploiement de modèles d'apprentissage automatique sophistiqués. Vous travaillerez sur des projets variés et stimulants, en collaboration étroite avec nos data scientists et nos ingénieurs logiciels pour transformer des concepts innovants en solutions concrètes et évolutives.
+
+## Responsabilités
+• Concevoir et développer des modèles de machine learning et de deep learning.
+• Collaborer avec les data scientists pour implémenter et optimiser des algorithmes.
+• Transformer les prototypes de modèles en solutions robustes et évolutives.
+• Mettre en place des pipelines de données efficaces pour l'entraînement et l'inférence.
+• Optimiser les performances et l'efficacité des modèles déployés.
+• Assurer la maintenance et la mise à jour continue des modèles en production.
+• Participer à la veille technologique et à l'évaluation de nouvelles techniques d'IA.
+
+## Qualifications requises
+• Master ou Doctorat en informatique, mathématiques appliquées ou domaine connexe.
+• 3+ ans d'expérience en développement de modèles de machine learning.
+• Maîtrise des frameworks de ML/DL (TensorFlow, PyTorch, Scikit-learn).
+• Solides compétences en programmation Python et en manipulation de données.
+• Expérience avec les technologies big data (Spark, Hadoop) et les bases de données.
+• Connaissance des techniques de ML Ops et de déploiement de modèles.
+• Familiarité avec les concepts de cloud computing et de conteneurisation.
+• Expérience en traitement du langage naturel (NLP) ou en vision par ordinateur appréciée.
+
+## Autres informations
+Type de contrat : CDI
+Lieu de travail : Sophia Antipolis avec possibilité de télétravail partiel
+
+Type d'emploi : Temps plein
+Statut : Cadre
+Rémunération : 55 000,00€ à 85 000,00€ par an
+
+Formation :
+• Bac +5 (Master) ou Doctorat (Requis)
+
+Expérience :
+• Machine Learning: 3 ans (Requis)
+• Développement Python: 4 ans (Requis)
+• MLOps: 1 an (Optionnel)
+
+Langue :
+• Anglais (Requis)
+• Français (Requis)
+
+Lieu du poste : Télétravail hybride (06560 Sophia Antipolis)

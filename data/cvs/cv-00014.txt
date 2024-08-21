@@ -1,0 +1,57 @@
+Marie Martin
+Adresse : 12 Avenue des Sciences, 75013 Paris
+Téléphone : +33 7 23 45 67 89
+Email : marie.martin@example.com
+LinkedIn : linkedin.com/in/mariemartin
+GitHub : github.com/mariemartin
+
+Objectif Professionnel
+Récemment diplômée en Informatique et spécialisée en Business Intelligence, je suis à la recherche d'un premier emploi qui me permettra de mettre en pratique mes compétences en analyse de données et en développement de solutions BI. Passionnée par l'extraction d'insights à partir de données complexes, je suis motivée à rejoindre une équipe dynamique pour contribuer à des projets stratégiques.
+
+Formation
+2021 - 2024 :
+Licence Professionnelle Métiers de l’Informatique : Applications à la BI
+Université Paris-Dauphine, Paris
+
+Cours principaux : Data Warehousing, SQL, ETL, Reporting, Data Visualization, Big Data
+Projet de fin d’études : Mise en place d’un entrepôt de données pour une entreprise de e-commerce, création de tableaux de bord interactifs avec Power BI (note : 17/20)
+2019 - 2021 :
+DUT Informatique
+IUT de Paris, Paris
+
+Spécialisation en bases de données et systèmes d’information
+Projet tutoré : Développement d’une application de gestion de commandes pour une PME
+Expérience Professionnelle
+
+Juin 2023 - Août 2023 :
+Stagiaire BI Analyst - DataInsight Solutions, Paris
+
+Conception et développement de rapports interactifs sous Power BI pour les équipes marketing
+Participation à l’amélioration des processus ETL en optimisant les flux de données
+Collaboration avec l’équipe de développement pour intégrer des nouvelles sources de données
+Rédaction de documentation technique pour les utilisateurs finaux
+Projets Académiques :
+
+Création d’un Data Warehouse (2024) : Conception et implémentation d’un entrepôt de données pour analyser les performances de vente d’un e-commerce. Utilisation de Talend pour les processus ETL et Power BI pour les tableaux de bord.
+Analyse des données de trafic (2023) : Analyse des données de trafic web pour un site de vente en ligne, création de segments de clients et identification de tendances.
+Compétences Techniques
+
+Langages de programmation : SQL (avancé), Python (intermédiaire), R (débutant)
+Outils BI : Power BI, Tableau, Talend, SSIS
+Bases de données : MySQL, PostgreSQL, SQL Server
+Outils ETL : Talend, SSIS
+Data Visualization : Power BI, Tableau
+Autres : Méthodologies Agile, Git, Microsoft Excel (avancé)
+Langues
+
+Français : Langue maternelle
+Anglais : Niveau intermédiaire (lecture de documentation technique, rédaction de rapports)
+Centres d'Intérêt
+
+Analyse de données : Passionnée par l'extraction de connaissances à partir de grandes quantités de données
+Sports : Pratique régulière du tennis et de la course à pied
+Voyages : Intérêt pour la découverte de nouvelles cultures et de nouvelles perspectives professionnelles
+Informations Complémentaires
+
+Disponibilité : Immédiate
+Permis de conduire : B (véhicule personnel)
