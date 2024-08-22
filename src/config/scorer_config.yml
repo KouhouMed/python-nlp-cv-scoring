@@ -1,6 +1,6 @@
 # Global scoring parameters
 global:
-  skill_weight: 0.4
+  skill_weight: 0.3
   experience_weight: 0.3
   certification_weight: 0.2
   project_weight: 0.1
