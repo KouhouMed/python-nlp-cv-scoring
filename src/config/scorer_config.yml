@@ -1,9 +1,9 @@
 # Global scoring parameters
 global:
-  skill_weight: 0.3
+  skill_weight: 0.2
   experience_weight: 0.4
   certification_weight: 0.2
-  project_weight: 0.1
+  project_weight: 0.2
   max_experience_years: 20
   top_skills_count: 3
 
