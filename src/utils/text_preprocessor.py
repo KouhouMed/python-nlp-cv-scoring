@@ -41,3 +41,7 @@ if __name__ == "__main__":
     sample_text = "Je suis un ingénieur logiciel avec 5 ans d'expérience en Python et Machine Learning."
     processed_text = preprocessor.preprocess(sample_text)
     print(processed_text)
+
+    skills = ["Python", "Machine Learning", "Java", "C++"]
+    extracted_skills = preprocessor.extract_skills(sample_text, skills)
+    print(f"Extracted skills: {extracted_skills}")
