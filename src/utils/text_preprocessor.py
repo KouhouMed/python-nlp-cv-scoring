@@ -28,3 +28,8 @@ class TextPreprocessor:
             cleaned_text = ' '.join(cleaned_tokens)
 
             return cleaned_text
+
+        def extract_skills(self, text, skill_list):
+            # This is a simple skill extraction. You might want to implement a more sophisticated method.
+            skills = [skill for skill in skill_list if skill.lower() in text.lower()]
+            return skills
