@@ -12,31 +12,41 @@ from src.benchmarking.model_benchmarker import ModelBenchmarker
 project_root = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(project_root)
 
+
 def load_text_file(file_path):
-    with open(file_path, 'r', encoding='utf-8') as file:
+    with open(file_path, "r", encoding="utf-8") as file:
         return file.read()
+
 
 def load_job_descriptions(folder_path):
     job_descriptions = []
     for filename in os.listdir(folder_path):
-        if filename.endswith('.txt'):
+        if filename.endswith(".txt"):
             file_path = os.path.join(folder_path, filename)
             job_description = load_text_file(file_path)
             job_descriptions.append((filename, job_description))
     return job_descriptions
 
+
 def save_results(results, output_file):
-    with open(output_file, 'w', newline='', encoding='utf-8') as file:
+    with open(output_file, "w", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
-        writer.writerow(['CV', 'Job Description', 'Model', 'Score', 'Top Skills'])
+        writer.writerow(["CV", "Job Description", "Model", "Score", "Top Skills"])
         for result in results:
-            writer.writerow([
-                result['cv'],
-                result['job_description'],
-                result['model'],
-                result['score'],
-                ', '.join([f"{skill['compétence']} ({skill['score']:.2f})" for skill in result['top_skills']])
-            ])
+            writer.writerow(
+                [
+                    result["cv"],
+                    result["job_description"],
+                    result["model"],
+                    result["score"],
+                    ", ".join(
+                        [
+                            f"{skill['compétence']} ({skill['score']:.2f})"
+                            for skill in result["top_skills"]
+                        ]
+                    ),
+                ]
+            )
 
 
 def main():
@@ -44,17 +54,17 @@ def main():
 
     # Load models
     models = {
-        'BERT': BERTScorer(),
-        'Word2Vec': Word2VecScorer(),
-        'ChatGPT': ChatGPTScorer()
+        "BERT": BERTScorer(),
+        "Word2Vec": Word2VecScorer(),
+        "ChatGPT": ChatGPTScorer(),
     }
 
     # Load CV data
-    cv_folder = 'data/cvs'
-    cv_files = [f for f in os.listdir(cv_folder) if f.endswith('.txt')]
+    cv_folder = "data/cvs"
+    cv_files = [f for f in os.listdir(cv_folder) if f.endswith(".txt")]
 
     # Load job descriptions
-    job_descriptions_folder = 'data/job_descriptions'
+    job_descriptions_folder = "data/job_descriptions"
     job_descriptions = load_job_descriptions(job_descriptions_folder)
 
     results = []
@@ -76,18 +86,21 @@ def main():
                 print("Top Skills:")
                 for skill in top_skills:
                     print(
-                        f"  - {skill['compétence']}: Score: {skill['score']:.4f}, Années: {skill.get('années', 'N/A')}")
+                        f"  - {skill['compétence']}: Score: {skill['score']:.4f}, Années: {skill.get('années', 'N/A')}"
+                    )
 
-                results.append({
-                    'cv': cv_file,
-                    'job_description': job_desc_file,
-                    'model': model_name,
-                    'score': score,
-                    'top_skills': top_skills
-                })
+                results.append(
+                    {
+                        "cv": cv_file,
+                        "job_description": job_desc_file,
+                        "model": model_name,
+                        "score": score,
+                        "top_skills": top_skills,
+                    }
+                )
 
     # Save results to CSV
-    save_results(results, 'output/scoring_results.csv')
+    save_results(results, "output/scoring_results.csv")
     print("\nResults have been saved to output/scoring_results.csv")
 
     # Perform analysis on the results
@@ -95,9 +108,9 @@ def main():
 
     # run benchmark
     benchmarker = ModelBenchmarker(
-        cv_folder='data/cvs',
-        job_desc_folder='data/job_descriptions',
-        manual_scores_file='data/manual_scores.csv'
+        cv_folder="data/cvs",
+        job_desc_folder="data/job_descriptions",
+        manual_scores_file="data/manual_scores.csv",
     )
 
     metrics, skill_analysis = benchmarker.run_full_benchmark()
@@ -111,18 +124,20 @@ def main():
     print("\nTop 5 Most Frequently Extracted Skills by Model:")
     for model, skills in skill_analysis.items():
         print(f"\n{model} Model:")
-        for skill, count in sorted(skills.items(), key=lambda x: x[1], reverse=True)[:5]:
+        for skill, count in sorted(skills.items(), key=lambda x: x[1], reverse=True)[
+            :5
+        ]:
             print(f"  {skill}: {count}")
 
-    benchmarker.save_results('output/benchmark_results.csv')
+    benchmarker.save_results("output/benchmark_results.csv")
     print("\nDetailed results saved to 'output/benchmark_results.csv'")
     print("Benchmark plot saved as 'benchmark_results.png'")
 
 
 def analyze_results(results):
-    model_averages = {model: [] for model in ['BERT', 'Word2Vec', 'ChatGPT']}
+    model_averages = {model: [] for model in ["BERT", "Word2Vec", "ChatGPT"]}
     for result in results:
-        model_averages[result['model']].append(result['score'])
+        model_averages[result["model"]].append(result["score"])
 
     print("\nModel Performance Analysis:")
     for model, scores in model_averages.items():
