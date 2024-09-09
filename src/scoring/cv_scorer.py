@@ -19,7 +19,4 @@ class CVScorer:
         global_score = self.model.score_cv(cv_text, job_description)
         top_skills = self.model.extract_top_skills(cv_text, job_description)
 
-        return {
-            "global_score": global_score,
-            "top_skills": top_skills
-        }
+        return {"global_score": global_score, "top_skills": top_skills}
